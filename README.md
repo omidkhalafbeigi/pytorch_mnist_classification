@@ -1,1 +1,1 @@
-# pytorch_mnist_classification
+# PyTorch MNIST CNN based Classifier (using Autograd package)
